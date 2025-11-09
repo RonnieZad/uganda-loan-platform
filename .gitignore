@@ -34,3 +34,4 @@ frontend/.env.local
 # Claude Code
 .claude/
 .claude_history
+DEPLOY_QUICK_REFERENCE.txt
