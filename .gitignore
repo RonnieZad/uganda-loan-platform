@@ -35,3 +35,4 @@ frontend/.env.local
 .claude/
 .claude_history
 DEPLOY_QUICK_REFERENCE.txt
+.vercel
